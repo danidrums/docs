@@ -4,7 +4,7 @@
   "name": "EventHound",
   "colors": {
     "primary": "#f43527",
-    "light": "#07C983",
+    "light": "#f43527",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
