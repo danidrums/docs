@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "$schema": "https://docs.eventhound.app/docs.json",
   "theme": "linden",
   "name": "EventHound",
   "colors": {
