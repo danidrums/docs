@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.eventhound.app/docs.json",
-  "theme": "linden",
+  "theme": "maple",
   "name": "EventHound",
   "colors": {
     "primary": "#f43527",
